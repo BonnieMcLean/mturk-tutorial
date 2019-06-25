@@ -11,6 +11,8 @@ https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMechanicalTurkGettingStartedGu
 
 ### 2. Install Submiterator
 
+(instructions vary on Windows and may slightly vary on Linux.)
+
 1. Install the boto3 and the xmltodict packages by running the following commands on the console:
 
     ```
