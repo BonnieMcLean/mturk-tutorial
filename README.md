@@ -11,7 +11,7 @@ https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMechanicalTurkGettingStartedGu
 
 ### 2. Install Submiterator
 
-1. Install the boto3 and the xmltodict packages by running the following commands on the console.
+1. Install the boto3 and the xmltodict packages by running the following commands on the console:
 
   ```
   pip3 install boto3
@@ -19,6 +19,10 @@ https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMechanicalTurkGettingStartedGu
   ```
 
 2. Clone the [Submiterator repo](https://github.com/sebschu/Submiterator)
+
+```
+git clone https://github.com/sebschu/Submiterator
+```
 
 3. Edit your bash profile file 
 
