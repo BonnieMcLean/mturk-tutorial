@@ -20,9 +20,9 @@ https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMechanicalTurkGettingStartedGu
 
 2. Clone the [Submiterator repo](https://github.com/sebschu/Submiterator)
 
-```
-git clone https://github.com/sebschu/Submiterator
-```
+    ```
+    git clone https://github.com/sebschu/Submiterator
+    ```
 
 3. Edit your bash profile file 
 
